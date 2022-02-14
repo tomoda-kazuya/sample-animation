@@ -1,3 +1,3 @@
 # sample-animation
 ## 更新履歴
-developブランチを作成
+2022/02/14 developブランチを作成
